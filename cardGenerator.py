@@ -40,7 +40,7 @@ message = names \
           + newYear \
           + " Год будет " \
           + random.choice(wish) \
-          + "!\n " \
+          + "!\n    " \
           + random.choice(signaturePrefix) \
           + signature
 
